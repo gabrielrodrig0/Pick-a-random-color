@@ -1,5 +1,6 @@
 //BOTAO DE MUDANÇA DE CORES
 
+let alerta2 = alert('By: gabrielrodrig0, enjoy!');
 let alerta1 = confirm("Clique no botão para gerar uma cor!");
 const colors = [1,2,3,4,5,6,7,8,9,'A','B','C','D','E','F'];
 const btn1 = document.querySelector('.btn');
